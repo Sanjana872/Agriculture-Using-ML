@@ -20,6 +20,7 @@ Farming is a vital sector that greatly influences a country's economic growth.
 
 
 ## WebApplication
+https://github.com/Sanjana872/Agriculture-Using-ML/tree/main/Snaps
 
 
 
